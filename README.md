@@ -1,8 +1,12 @@
 # Challenge
 
+Solution For Problem#2
+
 List Of Talks Used To Test ( You are free to use any other list in any order )
 
 It's Rest API so it expect Json request and send Json response
+
+You can run the test method "arrangetracks" in the ChallengeServiceTest Class to get a unit test result
 
 [
 "> Writing Fast Tests Against Enterprise Rails 60min",
